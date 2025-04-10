@@ -1,0 +1,51 @@
+Transaction_ID,Customer_ID,Date,Product,Quantity,Price_per_Unit,Total_Amount,Payment_Method,City
+T1000,C106,7/11/2022,Keyboard,3.0,1500.0,4500.0,,Los Angeles
+T1001,C169,26/5/2021,Headphones,3.0,500.0,1500.0,Online,Houston
+T1002,C172,13/11/2023,Keyboard,,500.0,,Online,Phoenix
+T1003,C184,4/12/2023,Mouse,,1500.0,,Cash,Houston
+T1004,C157,6/9/2023,Smartphone,3.0,1000.0,3000.0,,Los Angeles
+T1005,C108,13/4/2021,Keyboard,1.0,,,Online,
+T1006,C188,8/10/2023,Headphones,3.0,2000.0,6000.0,Online,
+T1007,C114,13/6/2023,Headphones,1.0,2000.0,2000.0,Credit Card,New York
+T1008,C177,5/3/2021,Mouse,1.0,,,Online,Chicago
+T1009,C148,19/11/2021,Mouse,,1500.0,,Credit Card,Phoenix
+T1010,C192,15/4/2022,Headphones,2.0,1500.0,3000.0,Online,Houston
+T1011,C114,10/7/2023,Laptop,,,,Credit Card,Houston
+T1012,C186,3/7/2020,Mouse,3.0,1500.0,4500.0,Credit Card,Houston
+T1013,C133,8/6/2022,Smartphone,3.0,1000.0,3000.0,Credit Card,New York
+T1014,C148,14/9/2021,Smartphone,,,,Credit Card,
+T1015,C197,15/4/2021,Laptop,2.0,,,Online,
+T1016,C170,26/6/2022,Laptop,1.0,1500.0,1500.0,Cash,New York
+T1017,C149,6/9/2023,Smartphone,2.0,2000.0,4000.0,Online,Houston
+T1018,C179,19/10/2021,Smartphone,3.0,500.0,1500.0,Cash,Houston
+T1019,C193,17/8/2022,Keyboard,3.0,1500.0,4500.0,Credit Card,New York
+T1020,C153,2/4/2021,Mouse,3.0,1500.0,4500.0,,Los Angeles
+T1021,C184,22/3/2020,Keyboard,3.0,1000.0,3000.0,,Houston
+T1022,C134,7/9/2021,Laptop,3.0,,,,
+T1023,C196,20/8/2021,Smartphone,3.0,1500.0,4500.0,Cash,Phoenix
+T1024,C135,7/10/2023,Smartphone,2.0,500.0,1000.0,Online,New York
+T1025,C144,16/3/2020,Headphones,3.0,1500.0,4500.0,Credit Card,
+T1026,C182,19/3/2020,Laptop,,2000.0,,Credit Card,Phoenix
+T1027,C156,27/7/2021,Smartphone,3.0,1000.0,3000.0,Cash,Chicago
+T1028,C116,23/12/2023,Smartphone,2.0,1500.0,3000.0,,Phoenix
+T1029,C151,14/3/2020,Keyboard,2.0,500.0,1000.0,Cash,New York
+T1030,C125,14/8/2023,Smartphone,2.0,1000.0,2000.0,,Los Angeles
+T1031,C136,20/4/2020,Laptop,1.0,,,Credit Card,Chicago
+T1032,C106,9/4/2020,Laptop,3.0,2000.0,6000.0,Online,Chicago
+T1033,C169,3/4/2022,Mouse,1.0,,,Online,
+T1034,C192,23/11/2021,Mouse,,1500.0,,Online,Chicago
+T1035,C139,22/3/2020,Smartphone,1.0,2000.0,2000.0,Cash,Phoenix
+T1036,C155,26/12/2022,Headphones,3.0,1000.0,3000.0,Cash,New York
+T1037,C200,1/2/2021,Mouse,3.0,,,Online,
+T1038,C176,4/6/2022,Laptop,2.0,500.0,1000.0,,Phoenix
+T1039,C102,25/2/2022,Laptop,3.0,,,,New York
+T1040,C122,5/6/2022,Laptop,1.0,2000.0,2000.0,Credit Card,
+T1041,C139,5/11/2023,Smartphone,3.0,1000.0,3000.0,Credit Card,Houston
+T1042,C104,5/2/2022,Laptop,,1500.0,,Online,Los Angeles
+T1043,C108,14/3/2021,Keyboard,3.0,1500.0,4500.0,Cash,Houston
+T1044,C112,20/10/2021,Headphones,3.0,2000.0,6000.0,Online,Los Angeles
+T1005,C146,19/9/2020,Headphones,3.0,2000.0,6000.0,Cash,New York
+T1010,C152,3/12/2021,Mouse,,2000.0,,Cash,Houston
+T1020,C119,12/8/2021,Laptop,3.0,500.0,1500.0,Cash,New York
+T1030,C138,11/6/2020,Laptop,2.0,500.0,1000.0,Credit Card,
+T1040,C116,5/11/2022,Laptop,2.0,1500.0,3000.0,Credit Card,Houston
