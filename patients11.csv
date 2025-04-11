@@ -1,0 +1,6 @@
+patient_id,name,age,gender,contact_number,admission_date,discharge_date,diagnosis,bill_amount,insurance_status
+P001,Alice,29,Female,123-456-7890,03/25/2024,04-02-2024,Fever,500,Yes
+P002,Bob,35,Male,987-654-3210,22-03-2024,03-30-2024,Diabetes,1200,No
+P003,Charlie,40,,456-789-0123,18-03-2024,26-03-2024,Hypertension,,Yes
+P004,David,,Male,(321) 654-0987,03/20/2024,28-03-2024,Heart Disease,2000,Yes
+P005,Eve,28,Female,555.666.7777,20-03-2024,28-03-2024,Flu,600,No
